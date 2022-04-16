@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map Sample library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+tactSW  KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+sampling    KEYWORD2
+edgeClear   KEYWORD2
+level       KEYWORD2
+edgeHToL    KEYWORD2
+edgeLToH    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
